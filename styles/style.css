@@ -38,6 +38,10 @@ body {
     justify-content: space-around;
 
 }
+.navbar-menu a{
+    text-decoration: none;
+    color: #59bd06;
+}
 
 /* architects starts*/
 
@@ -308,7 +312,7 @@ body {
 
 #us-des {
     color: #9c9c9c;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 
